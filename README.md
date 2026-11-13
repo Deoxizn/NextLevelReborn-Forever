@@ -1,4 +1,4 @@
-# NextLevelReborn Forever 2.1.1
+# NextLevelReborn Forever 2.1.2
 
 Remake of **Nextlevel - Classic** (WoWInterface, 2019-09-20, Classic 1.13.2, 244 downloads) for **WoW Forever, game version 1.60.1, Interface 16001, level cap 60**.
 
