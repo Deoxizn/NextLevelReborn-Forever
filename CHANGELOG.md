@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.2] - 2026-11-12
+
+- Corrected the Wago project ID to `aNer4k62`. Version 2.1.1 used the docs example ID and the Wago upload failed with no project found. No code changes.
+
 ## [2.1.1] - 2026-11-12
 
 - Wago publishing only. Added `## X-Wago-ID: as3Dfg57` to the TOC and added the `WAGO_API_TOKEN` repo secret so the BigWigs packager uploads to Wago. No code changes.
