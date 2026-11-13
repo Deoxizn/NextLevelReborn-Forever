@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.1.1] - 2026-11-12
+
+- Wago publishing only. Added `## X-Wago-ID: as3Dfg57` to the TOC and added the `WAGO_API_TOKEN` repo secret so the BigWigs packager uploads to Wago. No code changes.
+
 ## [2.1.0] - 2026-11-12
 
 - Initial release of NextLevelReborn for WoW Forever (1.60.1, Interface 16001, level cap 60).
