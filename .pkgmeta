@@ -1,0 +1,4 @@
+package-as: NextLevelReborn
+ignore:
+  - .pkgmeta
+  - .github
