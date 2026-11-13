@@ -1,4 +1,4 @@
--- NextLevelReborn Forever 2.1.0
+-- NextLevelReborn Forever 2.1.1
 -- WoW Forever build: Interface 16001, level cap 60, Classic XP curve (4,084,700 total to 60).
 -- Remake of Nextlevel - Classic (WoWInterface, 2019-09-20, Classic 1.13.2)
 -- Original idea: after any XP or reputation gain, print how many more
