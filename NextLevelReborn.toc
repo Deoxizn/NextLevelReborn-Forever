@@ -7,5 +7,6 @@
 ## IconTexture: Interface\Icons\INV_Misc_QuestionMark
 ## X-Category: Quests & Leveling
 ## X-Website: https://www.wowinterface.com/downloads/info25334-Nextlevel-Classic.html
+## X-Wago-ID: as3Dfg57
 
 NextLevelReborn.lua
